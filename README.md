@@ -26,3 +26,7 @@ C++-Solutions-blue.svg?style=flat&logo=c++
 </a>
 
 
+<a href="https://github.com/cviaai/DEEP-NEGATIVE-VOLUME">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cviaai&repo=DEEP-NEGATIVE-VOLUME&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>    
+
