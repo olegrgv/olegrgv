@@ -1,6 +1,8 @@
 ### Hi there 👋 my name is Oleg
 
 [![Oleg's GitHub stats](https://github-readme-stats.vercel.app/api?username=olegrgv)](https://github.com/olegrgv/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=olegrgv&langs_count=8)](https://github.com/olegrgv/github-readme-stats)
+
 
 
 <!--
