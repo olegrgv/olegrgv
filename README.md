@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there 👋 my name is Oleg
+
+[![Oleg's GitHub stats](https://github-readme-stats.vercel.app/api?username=olegrgv)](https://github.com/olegrgv/github-readme-stats)
+
 
 <!--
 **olegrgv/olegrgv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
