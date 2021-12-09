@@ -1,9 +1,7 @@
-[![Header](https://raw.githubusercontent.com/olegrgv/olegrgv/master/readme_header.png "Header")](https://github.com/olegrgv)
 
-# Hello, folks! <img src="https://raw.githubusercontent.com/olegrgv/olegrgv/master/wave.gif" width="30px">
 
 My name is Oleg  and I'm a AI researcher at Skoltech and the head of data science at Vein CV. 
-C++-Solutions-blue.svg?style=flat&logo=c++
+
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
