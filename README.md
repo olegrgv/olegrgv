@@ -1,6 +1,6 @@
 
 
-My name is Oleg  and I'm a AI researcher at Skoltech and a CTO at Vein CV. 
+My name is Oleg  and I'm a research scientist at Skoltech and a CTO at Vein CV. 
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
