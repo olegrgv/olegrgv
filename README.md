@@ -1,6 +1,6 @@
 
 
-Hi. My name is Oleg, I'm a research scientist at Skoltech and a CTO at Vein CV. 
+Hi. My name is Oleg, I'm a research scientist at Skoltech and a co-founder at Vein CV LLC. 
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
