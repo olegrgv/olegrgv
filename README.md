@@ -1,6 +1,6 @@
 
 
-Hi. My name is Oleg, I'm an AI research scientist and a co-founder at Vein CV LLC. 
+Hi. My name is Oleg, I'm an AI research scientist.
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
